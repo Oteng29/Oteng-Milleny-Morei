@@ -1,6 +1,6 @@
 ### Oteng-Milleny-Morei
 
-# hi there
+# Hi there 👋
 
 ## Intro
 
