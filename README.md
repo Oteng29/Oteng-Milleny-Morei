@@ -55,5 +55,5 @@ Feel free to reach out to me if you have any questions, collaborations, or just 
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oteng29&show_icons=true)
 
