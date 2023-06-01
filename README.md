@@ -11,7 +11,7 @@
 
 # Welcome to My GitHub Profile!
 
-[I am a visionary mind ready to take on the world! With an insatiable curiosity and a passion for knowledge,I am always seeking new adventures and opportunities for growth. From the realms of academia to the creative realms of the arts,Last;y I embrace a diverse range of interests and endeavors.]
+I am a visionary mind ready to take on the world! With an insatiable curiosity and a passion for knowledge,I am always seeking new adventures and opportunities for growth. From the realms of academia to the creative realms of the arts,Last;y I embrace a diverse range of interests and endeavors.
 
 I'm a passionate developer with a focus on web development using CSS, HTML, and JavaScript. I love creating user-friendly interfaces and building interactive websites. I enjoy collaborating with others and learning new technologies.
 
