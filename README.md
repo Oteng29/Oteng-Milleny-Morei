@@ -6,8 +6,8 @@
 
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-[![GitHub stars](https://img.shields.io/github/stars/[Your Username]/[Your Repository].svg)](https://github.com/[Your Username]/[Your Repository]/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/[Your Username]/[Your Repository].svg)](https://github.com/[Your Username]/[Your Repository]/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Oteng29/Oteng-Milleny-Morei.svg)](https://github.com/Oteng29/Oteng-Milleny-Morei/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Oteng29/Oteng-Milleny-Morei.svg)](https://github.com/Oteng29/Oteng-Milleny-Morei/issues)
 
 # Welcome to My GitHub Profile!
 
