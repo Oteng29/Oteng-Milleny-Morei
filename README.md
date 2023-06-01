@@ -19,10 +19,9 @@ I'm a passionate developer with a focus on web development using CSS, HTML, and 
 
 ## Skills
 
-- HTML
-- CSS
-- JavaScript
-- [Add any additional skills or technologies you have]
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://iconscout.com/icon/html5-19)
+-  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://iconscout.com/icon/javascript-2752148)
+- [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://iconscout.com/icon/css3-8)
 
 ## Projects
 
