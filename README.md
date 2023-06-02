@@ -23,28 +23,16 @@ I'm a passionate developer with a focus on web development using CSS, HTML, and 
 
 ## Projects
 
-- [Project 1](link-to-project-1) - Brief description of the project.
-- [Project 2](link-to-project-2) - Brief description of the project.
-- [Project 3](link-to-project-3) - Brief description of the project.
-- ...
+- [Project 1]([link-to-project-1](https://github.com/Oteng29/BCL2302_GroupJustin_OtengMorei_ITW.git)) - Intro to Web
+- [Project 2]([link-to-project-2](https://github.com/Oteng29/interactive-web-apps.git)) - Interactive Web Application
+- [Project 3]([link-to-project-3](https://github.com/Oteng29/OTEMOR906_BCL2302_Justin_OtengMorei_IWA.git)) - Final Capstone
 
-## Open Source Contributions
-
-- [Contribution 1](link-to-contribution-1) - Brief description of the contribution.
-- [Contribution 2](link-to-contribution-2) - Brief description of the contribution.
-- [Contribution 3](link-to-contribution-3) - Brief description of the contribution.
-- ...
-
-## Blog Posts
-
-- [Blog Post 1](link-to-blog-post-1) - Brief description of the blog post.
-- [Blog Post 2](link-to-blog-post-2) - Brief description of the blog post.
-- [Blog Post 3](link-to-blog-post-3) - Brief description of the blog post.
-- ...
 
 ## Get in Touch
 
-- [LinkedIn](link-to-linkedin)
+- [LinkedIn](www.linkedin.com/in/
+oteng-milleny-morei-2141a21bb
+)
 - [Twitter](link-to-twitter)
 - [Website/Blog](link-to-website)
 
