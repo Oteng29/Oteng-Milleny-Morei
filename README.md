@@ -30,9 +30,7 @@ I'm a passionate developer with a focus on web development using CSS, HTML, and 
 
 ## Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/
-oteng-milleny-morei-2141a21bb
-)
+- [LinkedIn](https://www.linkedin.com/in/oteng-milleny-morei-2141a21bb/)
 - [Twitter](link-to-twitter)
 - [Website/Blog](link-to-website)
 
