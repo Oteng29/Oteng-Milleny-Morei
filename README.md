@@ -23,9 +23,9 @@ I'm a passionate developer with a focus on web development using CSS, HTML, and 
 
 ## Projects
 
-- [Project 1]([link-to-project-1](https://github.com/Oteng29/BCL2302_GroupJustin_OtengMorei_ITW.git)) - Intro to Web
-- [Project 2]([link-to-project-2](https://github.com/Oteng29/interactive-web-apps.git)) - Interactive Web Application
-- [Project 3]([link-to-project-3](https://github.com/Oteng29/OTEMOR906_BCL2302_Justin_OtengMorei_IWA.git)) - Final Capstone
+- [Project 1](https://github.com/Oteng29/BCL2302_GroupJustin_OtengMorei_ITW.git) - Intro to Web
+- [Project 2](https://github.com/Oteng29/interactive-web-apps.git) - Interactive Web Application
+- [Project 3](https://github.com/Oteng29/OTEMOR906_BCL2302_Justin_OtengMorei_IWA.git) - Final Capstone
 
 
 ## Get in Touch
