@@ -2,7 +2,6 @@
 
 Junior Software Developer
 
-email: otengmilleny29@gmail.com
 
 ## Hi there 👋
 
@@ -35,6 +34,7 @@ Join me on this exciting journey as we push the boundaries of what's possible in
 
 ## Get in Touch
 
+- [ Email ] (otengmilleny29@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/oteng-milleny-morei-2141a21bb/)
 - [Twitter](link-to-twitter)
 - [Website/Blog](link-to-website)
