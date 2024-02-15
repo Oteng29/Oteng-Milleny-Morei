@@ -1,7 +1,7 @@
 ### Oteng Milleny Morei
 
-## Junior Software Developer
-## email: otengmilleny29@gmail.com
+Junior Software Developer
+email: otengmilleny29@gmail.com
 
 ## Hi there 👋
 
