@@ -1,9 +1,9 @@
 ### Oteng Milleny Morei
 
-# Hi there 👋
+## Junior Software Developer
+## email: otengmilleny29@gmail.com
 
-## Intro
-
+## Hi there 👋
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 [![GitHub stars](https://img.shields.io/github/stars/Oteng29/Oteng-Milleny-Morei.svg)](https://github.com/Oteng29/Oteng-Milleny-Morei/stargazers)
